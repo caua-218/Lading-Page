@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+}
+
+/* header */
+header {
+    background-color: #146400;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+}
+
+/* logo */
+
+/* nav */
+nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav>a {
+    text-decoration: none;
+    padding: 20px
+}
+
+nav>a {
+    color: #000000;
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* footer */
+footer {
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 10px;
+    font-size: 18px;
+}
+
+/* footer */
+footer {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+    font-size: 18px;
+}
+
+/* footer */
+footer {
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 190px;
+    font-size: 18px;
+    position: relative;
+    top: 200px;
+}
+
+footer div {
+    margin: 10px;
+}
+
+article>p {
+    text-align: center;
+}
+
+.carousel-caption>p {
+    color: #ffffff;
+    text-shadow: -5px -5px  rgb(0, 0, 0);
+    position: relative;
+    bottom: 15px;
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 25px;
+}
+
+
+
+#contatos {
+    position: relative;
+    right: 10px;
+}
+
+#fim {
+    position: relative;
+    top: 200px;
+    right: 12px;
+}
+
+a {
+    color: #000000;
+}
+
+#pfand{
+    font-family: "Oswald", sans-serif;
+    font-size: 40px;
+    position: relative;
+    top: 5px;
+    color: #ffffff;
+}
+#cadastro{
+    text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+@media screen and (max-width: 768px){
+    
+}
